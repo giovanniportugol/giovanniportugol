@@ -41,5 +41,5 @@ Tenho disposição para aprender novas tecnologias, desenvolver habilidades prá
 
 ## Contato
 
-- LinkedIn: www.linkedin.com/in/giovanni-de-souza-gomes-080964160
+- https://www.linkedin.com/in/giovanni-de-souza-gomes-2a0b90240/
 - E-mail: giovanniportugol@gmail.com
