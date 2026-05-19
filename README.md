@@ -34,12 +34,13 @@ Tenho disposição para aprender novas tecnologias, desenvolver habilidades prá
 
 ## Projetos
 
+- [QA Portfolio — Sistema de Chamados](https://github.com/giovanniportugol/qa-testes-sistema-chamados) — projeto prático de QA com testes manuais, plano de testes, casos de teste, relatório de bugs, matriz de rastreabilidade, evidências e estudos iniciais em automação.
+- [Sistema Web de Chamados Acadêmicos](https://github.com/giovanniportugol/sistema-web-chamados-academicos) — projeto acadêmico em HTML, CSS e JavaScript para simular abertura e acompanhamento de chamados acadêmicos em uma interface web.
+- [Sistema de Chamados Acadêmicos](https://github.com/giovanniportugol/sistema-chamados-academicos) — projeto acadêmico em Python para simular um Help Desk acadêmico, com abertura de chamados, ID único, controle de status, conclusão, arquivamento e relatório.
 - [Simulador de Chamados de Suporte Técnico](https://github.com/giovanniportugol/simulador-chamados-suporte) — projeto acadêmico em Python para simular o registro de chamados, com foco em suporte técnico, organização, prioridade e resolução de problemas.
 - [Estudos Python](https://github.com/giovanniportugol/estudos-python) — exercícios acadêmicos em Python e lógica de programação.
 - [Estudos SQL](https://github.com/giovanniportugol/estudos-sql) — estudos acadêmicos sobre SQL e fundamentos de banco de dados.
 - [Fundamentos de TI](https://github.com/giovanniportugol/fundamentos-ti) — anotações sobre redes, sistemas operacionais, cibersegurança e fundamentos de tecnologia.
-- - [Sistema de Chamados Acadêmicos](https://github.com/giovanniportugol/sistema-chamados-academicos) — projeto acadêmico em Python para simular um Help Desk acadêmico, com abertura de chamados, ID único, controle de status, conclusão, arquivamento e relatório.
- - [Sistema Web de Chamados Acadêmicos](https://github.com/giovanniportugol/sistema-web-chamados-academicos) — projeto acadêmico em HTML, CSS e JavaScript para simular abertura e acompanhamento de chamados acadêmicos em uma interface web.
 
 ## Contato
 
