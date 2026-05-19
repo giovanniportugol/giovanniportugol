@@ -39,6 +39,7 @@ Tenho disposição para aprender novas tecnologias, desenvolver habilidades prá
 - [Estudos SQL](https://github.com/giovanniportugol/estudos-sql) — estudos acadêmicos sobre SQL e fundamentos de banco de dados.
 - [Fundamentos de TI](https://github.com/giovanniportugol/fundamentos-ti) — anotações sobre redes, sistemas operacionais, cibersegurança e fundamentos de tecnologia.
 - - [Sistema de Chamados Acadêmicos](https://github.com/giovanniportugol/sistema-chamados-academicos) — projeto acadêmico em Python para simular um Help Desk acadêmico, com abertura de chamados, ID único, controle de status, conclusão, arquivamento e relatório.
+ - [Sistema Web de Chamados Acadêmicos](https://github.com/giovanniportugol/sistema-web-chamados-academicos) — projeto acadêmico em HTML, CSS e JavaScript para simular abertura e acompanhamento de chamados acadêmicos em uma interface web.
 
 ## Contato
 
