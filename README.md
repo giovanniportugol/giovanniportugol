@@ -1,7 +1,7 @@
 # Olá, eu sou Giovanni de Souza Gomes 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio  
-e estou construindo minha entrada profissional na área de Tecnologia da Informação.
+e estou iniciando minha trajetória profissional na área de Tecnologia da Informação.
 
 Atualmente estudo e desenvolvo projetos práticos com foco em:
 
