@@ -70,16 +70,18 @@ com foco em suporte técnico, organização, prioridade e resolução de problem
 
 ### [Estudos Python](https://github.com/giovanniportugol/estudos-python)
 
-Exercícios acadêmicos em Python e lógica de programação.
+Repositório com exercícios acadêmicos em Python, lógica de programação  
+e prática de resolução de problemas.
 
 ### [Estudos SQL](https://github.com/giovanniportugol/estudos-sql)
 
-Estudos acadêmicos sobre SQL e fundamentos de banco de dados.
+Repositório com estudos acadêmicos sobre SQL, consultas básicas  
+e fundamentos de banco de dados.
 
 ### [Fundamentos de TI](https://github.com/giovanniportugol/fundamentos-ti)
 
-Anotações sobre redes, sistemas operacionais, cibersegurança  
-e fundamentos de tecnologia.
+Repositório com anotações sobre redes de computadores, sistemas operacionais,  
+cibersegurança e fundamentos gerais de tecnologia.
 
 ---
 
