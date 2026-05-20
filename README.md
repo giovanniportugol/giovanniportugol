@@ -17,10 +17,13 @@ Tenho interesse em oportunidades iniciais, estágio ou posições júnior nas á
 - QA/Testes de Software
 - Suporte Técnico
 - Desenvolvimento Web
-- Dados
 
 Meu objetivo é aprender continuamente, aplicar meus conhecimentos em projetos práticos  
 e contribuir com organização, responsabilidade, raciocínio lógico e boa documentação.
+
+Tenho disposição para aprender, receber orientações e evoluir com a equipe,  
+buscando crescer junto com a empresa por meio de dedicação, ética profissional  
+e melhoria contínua.
 
 ---
 
@@ -46,8 +49,9 @@ e contribuir com organização, responsabilidade, raciocínio lógico e boa docu
 
 ### [QA Portfolio — Sistema de Chamados](https://github.com/giovanniportugol/qa-testes-sistema-chamados)
 
-Projeto prático de QA com testes manuais, plano de testes, casos de teste,  
-relatório de bugs, matriz de rastreabilidade, evidências e estudos iniciais em automação.
+Projeto acadêmico em desenvolvimento, criado como portfólio de estudos em QA/Testes de Software,  
+com foco em testes manuais, documentação de casos de teste, relatório de bugs,  
+matriz de rastreabilidade, evidências e introdução à automação de testes.
 
 ### [Sistema Web de Chamados Acadêmicos](https://github.com/giovanniportugol/sistema-web-chamados-academicos)
 
