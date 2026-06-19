@@ -39,5 +39,5 @@ Olá, eu sou Giovanni de Souza Gomes 👋
 Atuar como QA Júnior, Analista de Testes Júnior ou Estagiário em Qualidade de Software, evoluindo para Automação de Testes e QA Automation Engineer.
 
 📫 Contato:
-LinkedIn: [seu LinkedIn]
+LinkedIn: linkedin.com/in/giovanni-de-souza-gomes-2a0b90240
 E-mail: giovanniportugol@gmail.com
